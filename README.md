@@ -1,1 +1,1 @@
-# House-Price-Predicting
+House price prediction using Python combines various steps in data analysis, feature engineering, machine learning modeling, and evaluation. Python libraries like pandas, scikit-learn, XGBoost, and TensorFlow are widely used to develop accurate predictive models. By utilizing these tools, you can build a robust system that estimates house prices based on historical data and relevant features.Predicting house prices using Python involves the application of data science and machine learning techniques. Here's an overview of the typical process:
